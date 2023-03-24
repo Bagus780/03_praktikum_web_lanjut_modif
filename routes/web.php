@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\PengalamanController;
+use App\Http\Controllers\MateriWebController;
 
 /*
 |--------------------------------------------------------------------------
@@ -58,6 +59,7 @@ Route::resource('/contact-us', ContactUsController::class)->only(["index"]);
 Route::get('/dashboard', [HomeController::class, 'index'])->name('home');
 Route::get('/profile', [ProfileController::class, 'index'])->name('profile');
 Route::get('/pengalaman', [PengalamanController::class, 'index'])->name('pengalaman');
+Route::get('/materi', [MateriWebController::class, 'index'])->name('_materi_web');
 //Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

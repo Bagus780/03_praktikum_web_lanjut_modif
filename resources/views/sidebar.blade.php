@@ -59,4 +59,12 @@
               </p>
             </a>
           </li>
+          <li class="nav-item">
+            <a href="{{ route('_materi_web') }}" class="nav-link">
+              <i class="nav-icon fas fa-tachometer-alt"></i>
+              <p>
+                Materi Web
+              </p>
+            </a>
+          </li>
   </aside>
