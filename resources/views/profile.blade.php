@@ -18,7 +18,7 @@
                 <div class="card-body box-profile">
                     <div class="text-center">
                         <img class="profile-user-img img-fluid img-circle"
-                        src="{{ asset ('assets/dist/img/2141720209.jpeg') }}" alt="User profile picture">
+                        src="{{ asset ('assets/dist/img/2041720093.jpeg') }}" alt="User profile picture">
                     </div>
                     
                     <h3 class="profile-username text-center">{{ $nama }}</h3>

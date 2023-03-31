@@ -14,7 +14,7 @@
           <img src="{{ asset ('assets/dist/img/2141720209.jpeg') }}" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block">Farhan Ramazain</a>
+          <a href="#" class="d-block">Mochamad Aditya Bagus</a>
         </div>
       </div>
 

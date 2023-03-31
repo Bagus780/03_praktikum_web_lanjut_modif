@@ -28,7 +28,7 @@
                 </div>
             </div>  
             <div class="card-body">
-                Semester 4 yang sangat menguji mental
+                Semester 4 masih semangat dongg!!!!!
             </div>
             <!-- /.card-body -->
             <div class="card-footer">
